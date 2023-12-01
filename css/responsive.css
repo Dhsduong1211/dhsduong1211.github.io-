@@ -1,0 +1,32 @@
+@media (min-width: 700px){
+      video {
+            width: 336px;
+      }
+      .list-video {
+            margin: 40px 0;
+      }
+      .img-btn-item img {
+            height: 123px;
+      }
+      .users ,.homes {
+            height: 1020px;
+      }
+      .list-img-btn {
+            margin: 0 8px;
+      }
+      .wapper-img {
+            margin: 60px 0;
+      }
+      .cv-body {
+            padding: 12px 24px 160px 24px;
+            
+      }
+      .cv-body p {
+            line-height: 1.4;
+            padding-top: 12px;
+      }
+      .cv-body h2 {
+            font-size: 48px;
+      }
+      
+}
